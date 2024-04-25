@@ -110,5 +110,8 @@ To run this project, you will need to update the following variables in the retr
 ![Architecture](./screenshots/2.png)
 
 
-<!-- ## Demo -->
+## Demo
+
+https://github.com/Anurag-Deo/Nutrivision-Backend/assets/92918449/127c6751-050e-4539-b439-d35d24b2b96d
+
 
